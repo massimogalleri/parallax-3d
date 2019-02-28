@@ -1,0 +1,32 @@
+{
+  "name": "parallax-elements",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/massimogalleri/parallax-elements.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/massimogalleri/parallax-elements/issues"
+  },
+  "homepage": "https://github.com/massimogalleri/parallax-elements#readme",
+  "dependencies": {
+    "gsap": "^2.0.2",
+    "imagesloaded": "^4.1.4",
+    "scrollmagic": "^2.0.6"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
